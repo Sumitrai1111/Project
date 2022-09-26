@@ -1,4 +1,12 @@
 /*header css*/
+body{
+    background-color: black;
+    color:wheat;
+}
+.mydark{
+    background-color: #f1eded;
+    color:black;
+}
 #navbar {
     background-color: black;
     border-bottom: 1px solid wheat;
@@ -21,8 +29,9 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-#icon:hover {
-    transform: scale(1.1);
+#light{
+    height:27px;
+    width:28px;
 }
 
 #heart {

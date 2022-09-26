@@ -43,6 +43,11 @@
                 <!---<span><input type="text" placeholder="search for brands&products" class="search">-->
 
                 <ul class="nav navbar-nav navbar-right">
+                     <li>
+                        <a href="#" id="icon">
+                            <img src="img/light-on.png" alt="light" id="light" onclick="changeMode()" style="background-color:black ;"/>
+                        </a>
+                    </li>
                     <li>
                         <a href="#" id="icon">
                             <span class="glyphicon glyphicon-user"></span> SingUp
@@ -202,6 +207,12 @@
                 }
             }
         })
+    </script>
+     <script>
+        function changeMode(){
+            let mybody=document.body;
+            mybody.classList.toggle('mydark');
+        }
     </script>
 </body>
 

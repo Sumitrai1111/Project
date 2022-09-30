@@ -43,6 +43,18 @@ body{
     font-size: 25px;
     color: wheat;
 }
+#coupon{
+    height: 300px;
+    width: 500px;
+    color: black;
+    background-image: url('img/EthnicWear-D.webp');
+    background-size: 500px 300px;
+    background-repeat: no-repeat;
+    z-index: 100;
+    position: absolute;
+    margin-left: 33%;
+    text-align: end;
+}
 
 /* slider css*/
 #slideimg {

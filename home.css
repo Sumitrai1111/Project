@@ -186,6 +186,12 @@ p {
     .search {
         width: 23%;
     }
+    #coupon{
+        height: 250px;
+        width: 500px;
+        background-size: 500px 250px;
+        margin-left: 32%;
+    }
 }
 
 @media screen and (max-width:1200px) {
@@ -196,6 +202,12 @@ p {
     .search {
         width: 26%;
         margin-left: 22%;
+    }
+      #coupon{
+        height: 200px;
+        width: 400px;
+        background-size: 400px 200px;
+        margin-left: 30%;
     }
 }
 
@@ -221,6 +233,12 @@ p {
         margin-top: 16%;
 
     }
+     #coupon{
+        height: 200px;
+        width: 400px;
+        background-size: 400px 200px;
+        margin-left: 25%;
+    }
 
 }
 
@@ -235,6 +253,12 @@ p {
 
     #brand {
         font-size: 18px;
+    }
+      #coupon{
+        height: 200px;
+        width: 400px;
+        background-size: 400px 200px;
+        margin-left: 25%;
     }
 }
 
@@ -305,6 +329,12 @@ p {
         margin-top: 20%;
 
     }
+     #coupon{
+        height: 200px;
+        width: 350px;
+        background-size: 350px 200px;
+        margin-left: 20%;
+    }
 }
 
 
@@ -316,6 +346,12 @@ p {
 
     #navbar {
         width: 100;
+    }
+     #coupon{
+        height: 120px;
+        width: 250px;
+        background-size: 250px 120px;
+        margin-left: 18%;
     }
 
     #brand {
@@ -495,5 +531,11 @@ p {
     #sociallink{
         height: 60px;
         margin-top: 3%;
+    }
+     #coupon{
+        height: 100px;
+        width: 200px;
+        background-size: 200px 100px;
+        margin-left: 15%;
     }
 }

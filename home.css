@@ -411,9 +411,8 @@ p {
     #coupon{
         height: 120px;
         width: 250px;
-        background-size: 250px 120px;
         margin-left: 18%;
-        margin-top: 0%;
+        font-size:12px;
     }
     #couponimg{
         height: 78px;

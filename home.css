@@ -21,7 +21,13 @@ body{
 #LI {
     color: wheat;
 }
-
+#wea{
+    font-size: 26px;
+}
+.P{
+    display: inline;
+    font-family: Arial, Helvetica, sans-serif;
+}
 #icon {
 
     color: wheat;
